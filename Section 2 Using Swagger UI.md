@@ -100,7 +100,7 @@ Define these charateristics of each parameter of the API request:
 
 ![API request parameters](./assets/api_request_parameters.png)
 
-> [Note]
+> [!Note]
 > If you click **Try it out** in the Preview, you can enter values in the fields and the click **Execute** to test the API.
 
 ### Step 6 Define the API responses
